@@ -334,7 +334,7 @@
               Nara<img src="https://flagpedia.net/data/flags/emoji/twitter/256x256/br.png" srcset="https://flagpedia.net/data/flags/emoji/twitter/256x256/br.png 2x" width="16" height="12" alt="México" class="rounded-[2px] opacity-80">
             </h3>
             <p class="text-[10px] md:text-xs text-gray-400 mt-0.5">
-              ~/: <span class="text-[var(--light-pink)]">Oque me Acalma</span> & <span> class="text-[#a47ba8]"> ^.^ Trás Paz</span>.
+              ~/: <span class="text-[var(--light-pink)]">Oque me Acalma</span> & <span class="text-[#a47ba8]"> ^.^ Trás Paz</span>.
             </p>
           </div>
         </div>
